@@ -1,4 +1,4 @@
-git clone https://github.com/user/repo.git
+ git clone https://github.com/user/repo.git
  cd repo
  touch newfile.txt
  git add .
